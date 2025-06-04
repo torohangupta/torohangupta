@@ -13,31 +13,12 @@
 
 
 ### Languages
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/js.svg" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/ts.svg" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/python.svg" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/bash.svg" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/bash.svg" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/c.svg" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/cpp.svg" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/html.svg" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/css.svg" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/sql.svg" height="30"/>
+<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/js.svg" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/ts.svg" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/python.svg" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/bash.svg" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/matlab.svg" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/c.svg" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/cpp.svg" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/html.svg" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/css.svg" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/sql.svg" height="30"/>
 
 
 ### Technologies
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/git.svg" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/svn.png" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/ubuntu.png" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/nodejs.svg" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/electron.png" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/bootstrap.svg" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/arduino.svg" height="30"/>
+<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/git.svg" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/svn.png" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/ubuntu.png" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/nodejs.svg" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/electron.png" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/bootstrap.svg" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/arduino.svg" height="30"/>
 
 
 ### Applications
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/solidworks.png" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/jira.svg" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/project.png" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/indesign.png" height="30"/>
-<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/figma.svg" height="30"/>
+<img src = "https://github.com/torohangupta/torohangupta/blob/main/images/solidworks.png" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/jira.svg" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/project.png" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/indesign.png" height="30"/> <img src = "https://github.com/torohangupta/torohangupta/blob/main/images/figma.svg" height="30"/>
