@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻  About Me
 - I'm a software engineer with deep interests in aerospace & aviation, with strong skills in leadership as well as team/project management
-- I currently work on writing and reviewing **DAL-A certified ARINC 661 compliant C++ code** for mission-critical avionics, as well as owning an avionics software productline
+- I currently work as a project engineer working on various programs within the aerospace avionics industry
 - I graduated from Iowa State University in 2022 (B.S. Aerospace Engineering, Leadership Studies)
 - I support [Valorant Draft Circuit](https://vdc.gg) as the technical operations lead, building backend operational tools, such as a database & it's [migration pipeline](https://github.com/Valorant-Draft-Circuit/vdc-prisma), the [internal API](https://github.com/Valorant-Draft-Circuit/vdc-api), and the [Discord bot](https://github.com/Valorant-Draft-Circuit/vdc-bot)
 - I love tinkering around with my [homelab](https://status.rohangupta.dev/status/homelab), using Docker, integrating GitHub Actions to handle my CI/CD pipeline
